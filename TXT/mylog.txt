@@ -7,3 +7,9 @@ ZCZC W00 100 L02 OS Class
 ZCZC W00 40 L10 Working on Assignment #00
 ZCZC W00 60 L64 Helping a friend (OS related problem)
 ZCZC W00 5 L41 Updating TXT/mylog.txt
+ZCZC W00 60 L10 Assignment #00
+ZCZC W01 45 L61 Setting up Oracle Virtual Box
+ZCZC W01 45 L62 Setting up Debian
+ZCZC W01 60 L09 Running a VirtualBox Debian Guest
+ZCZC W01 120 L11 Assignment #01
+
