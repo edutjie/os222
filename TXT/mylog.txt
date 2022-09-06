@@ -12,4 +12,6 @@ ZCZC W00 100 L99 Face-to-face lecture
 ZCZC W01 45 L61 Setting up Oracle Virtual Box
 ZCZC W01 45 L62 Setting up Debian
 ZCZC W01 60 L09 Running a VirtualBox Debian Guest
-ZCZC W01 120 L11 Assignment #01
+ZCZC W01 120 L11 Assignment #01 Setup a VirtualBox Debian Guest
+ZCZC W01 100 L02 ZOOM meetings
+ZCZC W01 200 L11 Assignment #01 The ATM Way: GSGS and Read
