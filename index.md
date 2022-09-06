@@ -6,7 +6,7 @@
 [LINKS]({{ site.baseurl }}/LINKS/) ---
 [TIPS]({{ site.baseurl }}/TIPS/) ---
 [LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
-[TARBALL](SandBox/cbkadal.tar.xz) ---
+[TARBALL](site.tarballlink) ---
 [GITHUB]({{ site.githublink }})
 <br>
 <hr>
@@ -15,6 +15,6 @@ This is {{ site.title }} and I am {{ site.author }}.
 This is the way!
 <br>
 <hr>
-&copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
+&copy; {{ site.copyright }} --- {{ site.author }}
 <hr>
 <br>
