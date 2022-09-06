@@ -10,7 +10,7 @@
 [GITHUB]({{ site.githublink }})
 <br>
 <hr>
-This is {{ site.title }} and I am {{ site.author }}.
+This is {{ site.title }} and I am {{ site.name }}.
 <br><br>
 This is the way!
 <br>
