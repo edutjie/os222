@@ -25,6 +25,6 @@ This video taught me simple regex. The video makes it seems like it's easy to un
 
 <br>
 <hr>
-&copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
+&copy; {{ site.copyright }} --- {{ site.author }}
 <hr>
 <br>
