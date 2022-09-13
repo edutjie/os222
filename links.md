@@ -24,13 +24,14 @@ This video taught me vim shortcut which is very helpful. It's also a straight to
 3. [Regular Expressions - Enough to be Dangerous](https://www.youtube.com/watch?v=bgBWp9EIlMM)<br>
 This video taught me simple regex. The video makes it seems like it's easy to understand and simple.
 
-4. ['sudo' is not available fix](https://milq.github.io/enable-sudo-user-account-debian/)<br>
+## Week 01
+1. ['sudo' is not available fix](https://milq.github.io/enable-sudo-user-account-debian/)<br>
 This website helped me solve 'sudo' is not avaible in my debian user.
 
-5. ['git' is not available fix](https://github.com/git-guides/install-git)<br>
+2. ['git' is not available fix](https://github.com/git-guides/install-git)<br>
 To install git, if it's not available.
 
-## Week 01
+## Week 02
 1. [Popular Vim Commands](https://www.keycdn.com/blog/vim-commands)<br>
 Popular vim commands to help me use vim when I'm working on a OS assignments.
 
