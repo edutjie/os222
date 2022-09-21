@@ -25,3 +25,7 @@ ZCZC W02 100 L02 ZOOM meetings
 ZCZC W02 90 L64 Helping 2 friends (OS related problem)
 ZCZC W02 100 L02 ZOOM meetings
 ZCZC W02 60 L12 Assignment #02 Finishing
+ZCZC W03 100 L02 ZOOM meetings
+ZCZC W03 200 L13 Assignment #03 (Readings and Demos) (Add/Create An Extra Virtual Disk)
+ZCZC W03 60 L64 Helping a friend (OS related problem)
+ZCZC W03 20 L05 Prepare and do weekly quiz
