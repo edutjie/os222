@@ -38,6 +38,10 @@ Popular vim commands to help me use vim when I'm working on a OS assignments.
 2. ['gnupg' is not avaiable fix](https://www.wikihow.com/Set-Up-and-Use-GPG-for-Ubuntu#:~:text=To%20do%20this%2C%20run%20terminal,any%20prompting%20you%20may%20get.&text=Install%20a%20GUI%20for%20GPG,any%20prompting%20you%20may%20get.)<br>
 To install gnupg, if it's not available.
 
+## Week 03
+1. [How to change virtual box disk storage](https://www.howtogeek.com/124622/how-to-enlarge-a-virtual-machines-disk-in-virtualbox-or-vmware/#:~:text=Update%3A%20Use%20the%20Virtual%20Media%20Manager%20in%20VirtualBox&text=To%20access%20it%2C%20click%20File,%E2%80%9D%20when%20you're%20done.)<br>
+
+Helped me to change virtual box disk storage since I set up the wrong size in the first place.
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }}
