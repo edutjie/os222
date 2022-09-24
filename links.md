@@ -40,8 +40,10 @@ To install gnupg, if it's not available.
 
 ## Week 03
 1. [How to change virtual box disk storage](https://www.howtogeek.com/124622/how-to-enlarge-a-virtual-machines-disk-in-virtualbox-or-vmware/#:~:text=Update%3A%20Use%20the%20Virtual%20Media%20Manager%20in%20VirtualBox&text=To%20access%20it%2C%20click%20File,%E2%80%9D%20when%20you're%20done.)<br>
-
 Helped me to change virtual box disk storage since I set up the wrong size in the first place.
+2. [How to Enlarge a Virtual Machine’s Disk in VirtualBox or VMware](https://www.howtogeek.com/124622/how-to-enlarge-a-virtual-machines-disk-in-virtualbox-or-vmware/#:~:text=Update%3A%20Use%20the%20Virtual%20Media%20Manager%20in%20VirtualBox&text=To%20access%20it%2C%20click%20File,%E2%80%9D%20when%20you're%20done.)<br>
+Helped me to change virtual machine storage size since I picked the wrong size in the beginning.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }}
