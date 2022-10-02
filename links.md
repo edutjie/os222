@@ -44,6 +44,14 @@ Helped me to change virtual box disk storage since I set up the wrong size in th
 2. [How to Enlarge a Virtual Machine’s Disk in VirtualBox or VMware](https://www.howtogeek.com/124622/how-to-enlarge-a-virtual-machines-disk-in-virtualbox-or-vmware/#:~:text=Update%3A%20Use%20the%20Virtual%20Media%20Manager%20in%20VirtualBox&text=To%20access%20it%2C%20click%20File,%E2%80%9D%20when%20you're%20done.)<br>
 Helped me to change virtual machine storage size since I picked the wrong size in the beginning.
 
+## Week 04
+1. [Compile C program with gcc compiler on Bash on Ubuntu on Windows 10](https://developerinsider.co/compile-c-program-with-gcc-compiler-on-bash-on-ubuntu-on-windows-10/)<br>
+Taught me how to compile a C program to do pop quiz week 4.
+2. [Makefile Tutorial](https://makefiletutorial.com/)<br>
+Taught me to make a Makefile and what does it do.
+3. [How to tar a Folder in Linux](https://linuxhint.com/tar-folder-linux/)<br>
+Helped me to make a script to tar a Folder and Encrypt it.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }}
