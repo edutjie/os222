@@ -33,7 +33,10 @@ ZCZC W03 100 L02 ZOOM meetings
 ZCZC W03 60 L05 Prepare and do weekly quiz (Friday quiz)
 ZCZC W03 60 L13 Assignment #03 (Finishing)
 ZCZC W04 100 L02 ZOOM meetings
-ZCZC W04 100 L14 Assignment #03 All
+ZCZC W04 100 L14 Assignment #04 All
 ZCZC W04 100 L02 ZOOM meetings
 ZCZC W04 20 L05 Prepare and do weekly quiz (Short answer quiz)
 ZCZC W04 120 L05 Prepare and do weekly quiz (Friday quiz)
+ZCZC W05 100 L02 ZOOM meetings
+ZCZC W05 60 L05 POP Quiz
+ZCZC W05 200 L15 Assignment #05 All

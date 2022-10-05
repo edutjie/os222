@@ -52,6 +52,14 @@ Taught me to make a Makefile and what does it do.
 3. [How to tar a Folder in Linux](https://linuxhint.com/tar-folder-linux/)<br>
 Helped me to make a script to tar a Folder and Encrypt it.
 
+## Week 05
+1. [Change Virtual Box Base Memory](https://osp4diss.vlsm.org/DebianGuestOnVirtualBox3.html#idx01)<br>
+Taught me how to change virtual box base memory.
+2. [Functions in C](https://www.w3schools.com/c/c_functions.php#:~:text=A%20function%20is%20a%20block,and%20use%20it%20many%20times.)<br>
+Taught me how to make or customize functions in C.
+3. [Functions' Parameters in C)[https://www.w3schools.com/c/c_functions_parameters.php]<br>
+Taught me how to add parameters in a function in C.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }}
