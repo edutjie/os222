@@ -57,7 +57,7 @@ Helped me to make a script to tar a Folder and Encrypt it.
 Taught me how to change virtual box base memory.
 2. [Functions in C](https://www.w3schools.com/c/c_functions.php#:~:text=A%20function%20is%20a%20block,and%20use%20it%20many%20times.)<br>
 Taught me how to make or customize functions in C.
-3. [Functions' Parameters in C)[https://www.w3schools.com/c/c_functions_parameters.php]<br>
+3. [Functions' Parameters in C](https://www.w3schools.com/c/c_functions_parameters.php)<br>
 Taught me how to add parameters in a function in C.
 
 <br>
