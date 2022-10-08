@@ -40,3 +40,7 @@ ZCZC W04 120 L05 Prepare and do weekly quiz (Friday quiz)
 ZCZC W05 100 L02 ZOOM meetings
 ZCZC W05 60 L05 POP Quiz
 ZCZC W05 200 L15 Assignment #05 All
+ZCZC W05 100 L02 ZOOM meetings
+ZCZC W05 20 L05 Prepare and do weekly quiz (Short answer quiz)
+ZCZC W05 120 L05 Prepare and do weekly quiz (Friday quiz)
+ZCZC W05 60 L15 Revised Assignment #05 Memory
