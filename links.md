@@ -60,6 +60,12 @@ Taught me how to make or customize functions in C.
 3. [Functions' Parameters in C](https://www.w3schools.com/c/c_functions_parameters.php)<br>
 Taught me how to add parameters in a function in C.
 
+## Week 06
+1. [How do I Upgrade my Linux Kernel Version on Debian 10?](https://linuxhint.com/upgrade-linux-kernel-version-debian-10/)<br>
+Taught me how to update my debian kernel to the latest version.
+2. [SCP](https://osp4diss.vlsm.org/osp-002-scp.html)<br>
+Taught me how to copy file from localhost to os1.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }}
