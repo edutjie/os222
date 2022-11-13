@@ -66,6 +66,15 @@ Taught me how to update my debian kernel to the latest version.
 2. [SCP](https://osp4diss.vlsm.org/osp-002-scp.html)<br>
 Taught me how to copy file from localhost to os1.
 
+## Week 07
+1. [Process Synchronization](https://www.studytonight.com/operating-system/process-synchronization)<br>
+This short tutorial covered the concept of Process Synchronization in an operating system. Process Synchronization was introduced to handle problems that arose while multiple process executions.
+2. [Introduction to Deadlocks in Operating System](https://www.studytonight.com/operating-system/deadlocks)<br>
+Deadlocks are a set of blocked processes each holding a resource and waiting to acquire a resource held by another process. Let’s read more about deadlocks on this well-written article!
+3. [Critical Section in Synchronization](https://www.geeksforgeeks.org/g-fact-70/)<br>
+When more than one processes access a same code segment that segment is known as critical section. Critical section contains shared variables or resources which are needed to be synchronized to maintain consistency of data variable.
+
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }}
