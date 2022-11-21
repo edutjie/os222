@@ -74,6 +74,12 @@ Deadlocks are a set of blocked processes each holding a resource and waiting to 
 3. [Critical Section in Synchronization](https://www.geeksforgeeks.org/g-fact-70/)<br>
 When more than one processes access a same code segment that segment is known as critical section. Critical section contains shared variables or resources which are needed to be synchronized to maintain consistency of data variable.
 
+## Week 08
+1. [How to build Linux From Scratch 11.2 (Chap 1-5)](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDlbR_LTP37nG6g4vbSSxSZ)<br>
+This series of videos shows how you can take a Windows 10 PC (or with any other version or OS) and install your own Linux operating 
+system by installing Linux From Scratch 11.2.
+2. [Kernotex LFS Playlist](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDlbR_LTP37nG6g4vbSSxSZ)
+Helps me make linux from scratch for chapter 1-5.
 
 <br>
 <hr>
