@@ -78,8 +78,16 @@ When more than one processes access a same code segment that segment is known as
 1. [How to build Linux From Scratch 11.2 (Chap 1-5)](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDlbR_LTP37nG6g4vbSSxSZ)<br>
 This series of videos shows how you can take a Windows 10 PC (or with any other version or OS) and install your own Linux operating 
 system by installing Linux From Scratch 11.2.
-2. [Kernotex LFS Playlist](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDlbR_LTP37nG6g4vbSSxSZ)
+2. [Kernotex LFS Playlist](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDlbR_LTP37nG6g4vbSSxSZ)<br>
 Helps me make linux from scratch for chapter 1-5.
+
+## Week 09
+1. [How to build Linux From Scratch 11.2 (Chap 6-7)](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDlbR_LTP37nG6g4vbSSxSZ)<br>
+This series of videos shows how you can take a Windows 10 PC (or with any other version or OS) and install your own Linux operating system by installing Linux From Scratch 11.2.
+2. [How to Use the chroot Command on Linux](https://www.howtogeek.com/441534/how-to-use-the-chroot-command-on-linux/)<br>
+A chroot environment provides functionality similar to that of a virtual machine, but it is a lighter solution. The captive system doesn’t need a hypervisor to be installed and configured, such as VirtualBox or Virtual Machine Manager.
+3. [Firmware](https://techterms.com/definition/firmware)<br>
+Firmware is a software program or set of instructions programmed on a hardware device. It provides the necessary instructions for how the device communicates with the other computer hardware.
 
 <br>
 <hr>
